@@ -32,7 +32,7 @@ Secondy, prepare the pan using oil and butter. Then, put onions and carrots toge
 1. Run the web app locally by executing `run.py`. The default development URL is `http://127.0.0.1:5000/`.
 
 ### Option 2 - Using Docker
-1. Build the docker image: `docker build -t gecko-app .`.
+1. Build the Docker image: `docker build -t gecko-app .`.
 2. Run the image: `docker run -d -p 3000:80 gecko-app`. The URL will be `http://localhost:3000/`.
 
 ## Acknowledgments
