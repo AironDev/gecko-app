@@ -42,7 +42,7 @@ Our tool implements the two following models, for tackling, respectively, gramma
 - Prabhumoye, Shrimai, Ruslan Salakhutdinov, and Alan W. Black. **"Topological Sort for Sentence Ordering."** In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics. [[arXiv]](https://arxiv.org/abs/2005.00432)
 
 ## Contribute
-We accept contributions, whether they intend to fix an issue or to add new functionalities. Don't hesitate to submit a pull-request!
+We accept contributions, whether they intend to fix an issue or to add new functionalities. Don't hesitate to submit a pull request!
 
 [![https://github.com/psawa/gecko-app/issues](https://img.shields.io/github/issues/psawa/gecko-app)](https://github.com/psawa/gecko-app/issues)
 
